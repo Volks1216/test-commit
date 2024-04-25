@@ -2,4 +2,4 @@ Hello world test
 ----------------
 new line
 ----------------
-null
+this is a new line
